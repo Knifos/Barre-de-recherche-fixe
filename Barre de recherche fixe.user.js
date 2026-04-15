@@ -6,7 +6,7 @@
 // @match        https://www.jeuxvideo.com/*
 // @grant        none
 // @author       Knifos
-// @icon         https://ibb.co/9kkgP0Xx
+// @icon         https://i.ibb.co/B553kJDh/loupe-knifos.png
 // ==/UserScript==
 
 (function() {
