@@ -5,6 +5,8 @@
 // @description  Barre de recherche fixe
 // @match        https://www.jeuxvideo.com/*
 // @grant        none
+// @author       Knifos
+// @icon         https://ibb.co/9kkgP0Xx
 // ==/UserScript==
 
 (function() {
@@ -24,3 +26,5 @@
 
     document.head.appendChild(style);
 })();
+
+/* Script de Knifos */
