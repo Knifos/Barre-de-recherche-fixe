@@ -29,4 +29,5 @@
     document.head.appendChild(style);
 })();
 
-/* Script de Knifos */
+// Un problème ? Une suggestion ?
+// N'hésitez pas à contacter Knifos !
